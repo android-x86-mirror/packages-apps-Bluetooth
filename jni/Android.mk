@@ -26,8 +26,6 @@ LOCAL_SHARED_LIBRARIES := \
     liblog \
     libhardware
 
-LOCAL_MULTILIB := 32
-
 #LOCAL_CFLAGS += -O0 -g
 
 LOCAL_MODULE := libbluetooth_jni
