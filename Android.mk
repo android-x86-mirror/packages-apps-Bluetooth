@@ -25,7 +25,6 @@ LOCAL_JAVA_LIBRARIES := javax.obex telephony-common libprotobuf-java-micro
 LOCAL_STATIC_JAVA_LIBRARIES := com.android.vcard  bluetooth.mapsapi sap-api-java-static android-support-v4
 
 LOCAL_REQUIRED_MODULES := bluetooth.default
-LOCAL_MULTILIB := 32
 
 LOCAL_PROGUARD_ENABLED := disabled
 
